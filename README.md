@@ -44,12 +44,6 @@ And many more. Check out our [Documentation](https://docs.ayugram.one/desktop/).
   </details>
 </h3>
 
-## Donation
-
-Enjoy using **AyuGram**? Consider sending us a tip!
-
-[Here's available methods.](https://docs.ayugram.one/donate/)
-
 ## Credits
 
 ### Telegram clients
