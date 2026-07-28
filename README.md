@@ -39,6 +39,19 @@ And many more. Check out our [Documentation](https://docs.ayugram.one/desktop/).
 
 ### Windows
 
+#### Telegram Desktop 7.0.5 sync build
+
+The tested unsigned Windows x64 installer from this fork is available here:
+
+- [Download `ayusetup-x64.7.0.5.exe`](https://raw.githubusercontent.com/Suoriks/AyuGramDesktop/dev/release/ayusetup-x64.7.0.5.exe)
+- [View the installer in the repository](https://github.com/Suoriks/AyuGramDesktop/blob/dev/release/ayusetup-x64.7.0.5.exe)
+
+Build details:
+
+- Source commit: `dc411a4fd54fb79c7033c3467565f2b7e4541a3b`
+- Size: 56,847,629 bytes
+- SHA-256: `CF00E988911075EC185FC6224965994B5AA1D7BF386B5C7D467847CE1A976DB1`
+
 #### Official
 
 You can download prebuilt Windows binary from [Releases tab](https://github.com/AyuGram/AyuGramDesktop/releases) or from
