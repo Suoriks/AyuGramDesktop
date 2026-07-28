@@ -4,6 +4,15 @@
 
 [ English  |   [Русский](README-RU.md) ]
 
+## Download
+
+[**Download AyuGram 7.0.5 for Windows x64**](https://raw.githubusercontent.com/Suoriks/AyuGramDesktop/dev/release/ayusetup-x64.7.0.5.exe)
+
+- Size: 56,847,629 bytes
+- SHA-256: `CF00E988911075EC185FC6224965994B5AA1D7BF386B5C7D467847CE1A976DB1`
+- Source commit: `dc411a4fd54fb79c7033c3467565f2b7e4541a3b`
+- Unsigned installer
+
 ## Features
 
 - Full ghost mode (flexible)
@@ -34,117 +43,6 @@ And many more. Check out our [Documentation](https://docs.ayugram.one/desktop/).
     </table>
   </details>
 </h3>
-
-## Downloads
-
-### Windows
-
-#### Telegram Desktop 7.0.5 sync build
-
-The tested unsigned Windows x64 installer from this fork is available here:
-
-- [Download `ayusetup-x64.7.0.5.exe`](https://raw.githubusercontent.com/Suoriks/AyuGramDesktop/dev/release/ayusetup-x64.7.0.5.exe)
-- [View the installer in the repository](https://github.com/Suoriks/AyuGramDesktop/blob/dev/release/ayusetup-x64.7.0.5.exe)
-
-Build details:
-
-- Source commit: `dc411a4fd54fb79c7033c3467565f2b7e4541a3b`
-- Size: 56,847,629 bytes
-- SHA-256: `CF00E988911075EC185FC6224965994B5AA1D7BF386B5C7D467847CE1A976DB1`
-
-#### Official
-
-You can download prebuilt Windows binary from [Releases tab](https://github.com/AyuGram/AyuGramDesktop/releases) or from
-the [Telegram channel](https://t.me/AyuGramReleases).
-
-#### Winget
-
-```bash
-winget install RadolynLabs.AyuGramDesktop
-```
-
-#### Scoop
-
-```bash
-scoop bucket add extras
-scoop install ayugram
-```
-
-#### Self-built
-
-Follow [official guide](https://github.com/AyuGram/AyuGramDesktop/blob/dev/docs/building-win-x64.md) if you want to
-build by yourself.
-
-### macOS
-
-#### Official
-
-You can download prebuilt macOS package from [Releases tab](https://github.com/AyuGram/AyuGramDesktop/releases).
-
-#### Homebrew
-
-```bash
-brew install --cask ayugram
-```
-
-### Arch Linux
-
-#### From source (recommended)
-
-Install `ayugram-desktop` from [AUR](https://aur.archlinux.org/packages/ayugram-desktop).
-
-#### Prebuilt binaries
-
-Install `ayugram-desktop-bin` from [AUR](https://aur.archlinux.org/packages/ayugram-desktop-bin).
-
-Note: these binaries aren't officially maintained by us.
-
-### NixOS
-
-#### Flake (recommended)
-
-Install `ayugram-desktop` from [ndfined-crp/ayugram-desktop](https://github.com/ndfined-crp/ayugram-desktop)
-
-#### Nixpkgs
-
-Install `ayugram-desktop` from [nixpkgs](https://search.nixos.org/packages?channel=unstable&show=ayugram-desktop)
-
-### ALT Linux
-
-[Sisyphus](https://packages.altlinux.org/en/sisyphus/srpms/ayugram-desktop/)
-
-### Gentoo Linux
-
-See [this repository](https://codeberg.org/OverLessArtem/ayugram-ebuild-gentoo) for installation manual.
-
-### Void Linux
-See [this repository](https://codeberg.org/OverLessArtem/ayugram-template-void) for installation manual.
-
-### EPM
-
-`epm play ayugram`
-
-### Fedora
-
-From [RPM Fusion](https://admin.rpmfusion.org/pkgdb/package/free/ayugram-desktop/) repository.
-
-```bash
-dnf install ayugram-desktop
-```
-
-### Any other Linux distro
-
-Flatpak: https://github.com/0FL01/AyuGramDesktop-flatpak
-
-Or follow the [official guide](https://github.com/AyuGram/AyuGramDesktop/blob/dev/docs/building-linux.md).
-
-### Remarks for Windows
-
-Make sure you have these components installed with VS Build Tools:
-
-- C++ MFC latest (x86 & x64)
-- C++ ATL latest (x86 & x64)
-- latest Windows 11 SDK
 
 ## Donation
 
